@@ -7,6 +7,6 @@ Original Design
 
 HTML Template Screenshot
 
-![HTMl Template](/screeshot.jpg?raw=true "HTML Template")
+![HTMl Template](/screenshot.jpg?raw=true "HTML Template")
 
 
