@@ -1,0 +1,68 @@
+.navbar {
+	background-color: #b9dd01;
+	height: 66px;
+}
+
+.navbar-nav li a {
+	background-color: #b9dd01 !important;
+    line-height: 32px;
+    font-size: 16px;
+    color: black !important;
+    font-weight: bolder;
+}
+
+.navbar-form {
+	margin-top: 0px;
+}
+
+#content {
+	width: 100%;
+	max-width: 100%;
+	height: 100%;
+	margin: 0px;
+	padding: 0px;
+	background-image: url("nyc-skyline.jpg");
+	background-size: cover;
+
+
+    display: table;
+    position: absolute;
+}
+
+.login-form {
+	padding: 60px;
+	background-color: #f6f5f3;
+	border-radius: 10px;
+	margin-top: -100px;
+	text-align: center;
+
+	margin-left: auto;
+	margin-right: auto;
+	max-width: 400px;
+}
+
+#content .row-table {
+	display: table-cell;
+	vertical-align: middle;
+}
+
+#content .row:not(:first-child){
+	margin-top: 20px;
+}
+
+#content #large-signal {
+	font-size: 70px;
+}
+
+.login-button {
+	background-color: #b9dd01 !important;
+	width: 100%;
+	color: #FFFFFF;
+}
+
+.login-button:hover {
+	font-weight: bold;
+	border-color: #b9dd01;
+}
+
+
